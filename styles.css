@@ -28,6 +28,7 @@ color:rgba(244, 238, 238, 1) ;
     border-radius: 40px;
     background-color: #313415 ;
     color: white;
+    margin-top: 10px;
 }
 
 .btn-explore{
@@ -39,6 +40,7 @@ color:rgba(244, 238, 238, 1) ;
     color: white;
     border: 1px solid #FBF2F2;
  margin-left: 20px;
+ margin-top: 30px;
     
 }
 
@@ -59,7 +61,7 @@ color:rgba(244, 238, 238, 1) ;
 
 .center-image ul li{
     padding:25px;
-    font-size: 40px;
+    font-size: 25px;
     list-style-type: none;
     color: white;
 
@@ -117,6 +119,13 @@ font-size: 30px;
     border-radius: 30px;
     color: white;
 
+}
+
+p>span{
+    
+    margin-top: 20px;
+    padding-top: 20px;
+    font-size: 20px;
 }
 
 
